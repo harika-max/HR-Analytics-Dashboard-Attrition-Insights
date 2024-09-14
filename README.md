@@ -20,7 +20,7 @@ This project focuses on analyzing employee attrition to understand why people ar
 - Open it in Power BI Desktop to explore the visualizations and insights.
 
 
-  ## Key Features
+## Key Features
 - Salary vs. Attrition trends
 - Tenure-based employee retention insights
 - Role and age group-specific analysis
@@ -45,6 +45,6 @@ For any questions or suggestions, feel free to reach out:
 
 For any questions or suggestions, feel free to reach out:
 
- email alakuntlaharika.@gmail.com
+ email alakuntlaharika@gmail.com
 
 
